@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "service": "TP/S1",
+      "repart": "hola",
+      "solution": "S1",
+      "product": "P1",
+      "select": true,
+      "version": "V1",
+      "import": 50,
+      "cost": 60
+    },
+    {
+      "service": "TP/S1",
+      "repart": "hola",
+      "solution": "S1",
+      "product": "P2",
+      "select": true,
+      "version": null,
+      "import": 50,
+      "cost": 60
+    },
+    {
+      "service": "TP/S1",
+      "repart": "hola",
+      "solution": "S2",
+      "product": "P1",
+      "select": true,
+      "version": "V1",
+      "import": 50,
+      "cost": 60
+    },
+    {
+      "service": "TP/S2",
+      "repart": "hola",
+      "solution": "S2",
+      "product": "P1",
+      "select": true,
+      "version": "V1",
+      "import": 50,
+      "cost": 60
+    }
+  ]
+}
